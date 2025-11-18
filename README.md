@@ -14,33 +14,35 @@ No hardware required. All projects run in the browser or locally.
 hackathon-package/
 │
 ├── 📚 docs/
-│ ├── API_DOCUMENTATION.md
-│ ├── QUICKSTART.md
-│ ├── TUTORIALS.md
-│ ├── AUTH_GUIDE.md
-│ ├── ENDPOINTS.md
-│ └── FAQ_TROUBLESHOOTING.md
+│   ├── API_DOCUMENTATION.md
+│   ├── QUICKSTART.md
+│   ├── TUTORIALS.md
+│   ├── AUTH_GUIDE.md
+│   ├── ENDPOINTS.md
+│   └── FAQ_TROUBLESHOOTING.md
 │
 ├── 🚀 sample_projects/
-│ ├── workout-dashboard/
-│ │ ├── README.md
-│ │ ├── package.json
-│ │ ├── .env.example
-│ │ └── src/
-│ ├── social-feed/
-│ │ ├── README.md
-│ │ ├── package.json
-│ │ ├── .env.example
-│ │ └── src/
-│ └── voice-coach-demo/
-│ ├── README.md
-│ ├── requirements.txt
-│ ├── .env.example
-│ └── src/
+│   ├── workout-dashboard/
+│   │   ├── README.md
+│   │   ├── package.json
+│   │   ├── .env.example
+│   │   └── src/
+│   │
+│   ├── social-feed/
+│   │   ├── README.md
+│   │   ├── package.json
+│   │   ├── .env.example
+│   │   └── src/
+│   │
+│   └── voice-coach-demo/
+│       ├── README.md
+│       ├── requirements.txt
+│       ├── .env.example
+│       └── src/
 │
 ├── ⚡ edge_examples/
-│ ├── custom-workout-generator/
-│ └── audio-processor/
+│   ├── custom-workout-generator/
+│   └── audio-processor/
 │
 └── README.md (this file)
 
